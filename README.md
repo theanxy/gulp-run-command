@@ -22,7 +22,7 @@ gulp.task('build', ['clean'], run('babel index.js --out-file index.es5.js', {
 
 ## API
 
-### run(command, options)
+### run(commands, options)
 
 #### commands
 
